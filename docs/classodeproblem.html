@@ -92,6 +92,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a415e0001bfe1282764c339b6e8695ab8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adc4a5dbcc9561903a7aa81a90e8a908b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#adc4a5dbcc9561903a7aa81a90e8a908b">init_call_record</a> (const double &amp;<a class="el" href="classodeproblem.html#a570f475a1f81d2128fa90b9551ec9c37">time</a>)</td></tr>
 <tr class="separator:adc4a5dbcc9561903a7aa81a90e8a908b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aecacfdbd87dc7a4d28fced7c954c8d2f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#aecacfdbd87dc7a4d28fced7c954c8d2f">init_derivs</a> (double <a class="el" href="classodeproblem.html#a570f475a1f81d2128fa90b9551ec9c37">time</a>)</td></tr>
+<tr class="separator:aecacfdbd87dc7a4d28fced7c954c8d2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a258d7fdca6eb1b49cac25cea9fcca9c4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#a258d7fdca6eb1b49cac25cea9fcca9c4">y_init</a> (int pos, double value)</td></tr>
 <tr class="separator:a258d7fdca6eb1b49cac25cea9fcca9c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a372293a1d4b61703c114161f6bd24941"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#a372293a1d4b61703c114161f6bd24941">y_init</a> (Rcpp::NumericVector <a class="el" href="classodeproblem.html#a2de806c10c0ce7e2a422b9d4210640f9">init</a>)</td></tr>
@@ -256,11 +258,16 @@ Public Attributes</h2></td></tr>
 <tr class="memdesc:a99821f6e3572ba7527d280f264a83594"><td class="mdescLeft">&#160;</td><td class="mdescRight">captured data items  <a href="classodeproblem.html#a99821f6e3572ba7527d280f264a83594">More...</a><br /></td></tr>
 <tr class="separator:a99821f6e3572ba7527d280f264a83594"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a88cc2edf0422771da6ef112cb3e63516"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#a88cc2edf0422771da6ef112cb3e63516">Atol</a></td></tr>
-<tr class="memdesc:a88cc2edf0422771da6ef112cb3e63516"><td class="mdescLeft">&#160;</td><td class="mdescRight">absolute tolerance  <a href="classodeproblem.html#a88cc2edf0422771da6ef112cb3e63516">More...</a><br /></td></tr>
+<tr class="memdesc:a88cc2edf0422771da6ef112cb3e63516"><td class="mdescLeft">&#160;</td><td class="mdescRight">absolute tolerance used by ODE solver  <a href="classodeproblem.html#a88cc2edf0422771da6ef112cb3e63516">More...</a><br /></td></tr>
 <tr class="separator:a88cc2edf0422771da6ef112cb3e63516"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a044571543f4deb8371cdf67f8f1bb710"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#a044571543f4deb8371cdf67f8f1bb710">Rtol</a></td></tr>
-<tr class="memdesc:a044571543f4deb8371cdf67f8f1bb710"><td class="mdescLeft">&#160;</td><td class="mdescRight">relative tolerance  <a href="classodeproblem.html#a044571543f4deb8371cdf67f8f1bb710">More...</a><br /></td></tr>
+<tr class="memdesc:a044571543f4deb8371cdf67f8f1bb710"><td class="mdescLeft">&#160;</td><td class="mdescRight">relative tolerance used by ODE solver  <a href="classodeproblem.html#a044571543f4deb8371cdf67f8f1bb710">More...</a><br /></td></tr>
 <tr class="separator:a044571543f4deb8371cdf67f8f1bb710"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4c11850a713c857b647678ca07e77e1"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#aa4c11850a713c857b647678ca07e77e1">ssAtol</a></td></tr>
+<tr class="memdesc:aa4c11850a713c857b647678ca07e77e1"><td class="mdescLeft">&#160;</td><td class="mdescRight">absolute tolerance when finding steady state  <a href="classodeproblem.html#aa4c11850a713c857b647678ca07e77e1">More...</a><br /></td></tr>
+<tr class="separator:aa4c11850a713c857b647678ca07e77e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55d517add9c7e547ceecadb019f7a18e"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#a55d517add9c7e547ceecadb019f7a18e">ssRtol</a></td></tr>
+<tr class="separator:a55d517add9c7e547ceecadb019f7a18e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a863997df54fef12b50574d7f66b39135"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classodeproblem.html#a863997df54fef12b50574d7f66b39135">Npar</a></td></tr>
 <tr class="memdesc:a863997df54fef12b50574d7f66b39135"><td class="mdescLeft">&#160;</td><td class="mdescRight">number of parameters  <a href="classodeproblem.html#a863997df54fef12b50574d7f66b39135">More...</a><br /></td></tr>
 <tr class="separator:a863997df54fef12b50574d7f66b39135"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1138,6 +1145,24 @@ Public Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
+
+</div>
+</div>
+<a id="aecacfdbd87dc7a4d28fced7c954c8d2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aecacfdbd87dc7a4d28fced7c954c8d2f">&#9670;&nbsp;</a></span>init_derivs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void odeproblem::init_derivs </td>
+          <td>(</td>
+          <td class="paramtype">double&#160;</td>
+          <td class="paramname"><em>time</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -2341,7 +2366,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>absolute tolerance </p>
+<p>absolute tolerance used by ODE solver </p>
 
 </div>
 </div>
@@ -2677,7 +2702,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>relative tolerance </p>
+<p>relative tolerance used by ODE solver </p>
 
 </div>
 </div>
@@ -2790,6 +2815,36 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Max number of doses during SS advance before warning is issued. </p>
+
+</div>
+</div>
+<a id="aa4c11850a713c857b647678ca07e77e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4c11850a713c857b647678ca07e77e1">&#9670;&nbsp;</a></span>ssAtol</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">double odeproblem::ssAtol</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>absolute tolerance when finding steady state </p>
+
+</div>
+</div>
+<a id="a55d517add9c7e547ceecadb019f7a18e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55d517add9c7e547ceecadb019f7a18e">&#9670;&nbsp;</a></span>ssRtol</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">double odeproblem::ssRtol</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
