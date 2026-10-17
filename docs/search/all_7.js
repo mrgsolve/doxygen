@@ -1,13 +1,15 @@
 var searchData=
 [
-  ['h_5f_200',['h_',['../class_l_s_o_d_a.html#ad9a56ba3ab0cad472e824891f1c119c8',1,'LSODA']]],
-  ['had_5fdose_201',['had_dose',['../classmrgsolve_1_1tadose.html#a81402fbc429da981b8692372075abb9b',1,'mrgsolve::tadose']]],
-  ['hmax_5f_202',['hmax_',['../class_l_s_o_d_a.html#aa1783857555ac4cbb8771d0e64da299c',1,'LSODA']]],
-  ['hmin_203',['hmin',['../class_l_s_o_d_a.html#a1396b8be9d62342bf8ba5036985f426b',1,'LSODA']]],
-  ['hmin_5f_204',['hmin_',['../class_l_s_o_d_a.html#aa5d385425f7ba15b46277db115a3f829',1,'LSODA']]],
-  ['hmxi_205',['hmxi',['../class_l_s_o_d_a.html#a179c53de9dc19973cab60d9efa06da2f',1,'LSODA']]],
-  ['hold_206',['hold',['../class_l_s_o_d_a.html#a4776a27f3546e294ac9365d3a00db28d',1,'LSODA']]],
-  ['housemodel_2dmread_2dheader_2eh_207',['housemodel-mread-header.h',['../housemodel-mread-header_8h.html',1,'']]],
-  ['housemodel_2dmread_2dsource_2ecpp_208',['housemodel-mread-source.cpp',['../housemodel-mread-source_8cpp.html',1,'']]],
-  ['hu_209',['hu',['../class_l_s_o_d_a.html#ababadb6949b3cea075f122dad857d5d5',1,'LSODA']]]
+  ['get_5fcapture_0',['get_capture',['../classodeproblem.html#a203a46fbfbad1d61683b69f4cbd8f924',1,'odeproblem']]],
+  ['get_5fcol_5fn_1',['get_col_n',['../classdataobject.html#a61b4b28130bb76d1d745e055855c70ea',1,'dataobject']]],
+  ['get_5fetas_2',['get_etas',['../classdataobject.html#aa2c3130d5b514e6bb049dc42e3c47ec9',1,'dataobject']]],
+  ['get_5fid_5fvalue_3',['get_id_value',['../classdataobject.html#acb2e5de26d52f9518fe6cc040dad21a1',1,'dataobject']]],
+  ['get_5fidata_5frow_4',['get_idata_row',['../classdataobject.html#aa91370d528f90c10c9638ba8006e66fb',1,'dataobject']]],
+  ['get_5frecords_5',['get_records',['../classdataobject.html#a75e142ee684513e5aac42241c3aed1e6',1,'dataobject']]],
+  ['get_5frecords_5fpred_6',['get_records_pred',['../classdataobject.html#a46b701fd08440fa23f074c185cb11f4b',1,'dataobject']]],
+  ['get_5ftokens_7',['get_tokens',['../mrgsolve_8cpp.html#aa1217db0a93d9d11806d3ed4fd073cda',1,'get_tokens(const Rcpp::CharacterVector &amp;code):&#160;mrgsolve.cpp'],['../_rcpp_exports_8cpp.html#aa1217db0a93d9d11806d3ed4fd073cda',1,'get_tokens(const Rcpp::CharacterVector &amp;code):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#aa1217db0a93d9d11806d3ed4fd073cda',1,'get_tokens(const Rcpp::CharacterVector &amp;code):&#160;mrgsolve.cpp']]],
+  ['get_5fuid_8',['get_uid',['../classdataobject.html#ac4ca33465e8553b7d0cb1f62ff2c8240',1,'dataobject']]],
+  ['get_5fvalue_9',['get_value',['../classdataobject.html#a72cc6a0334d9eed18931deb66e283bca',1,'dataobject']]],
+  ['gut_10',['GUT',['../housemodel-mread-source_8cpp.html#ac9510ebd35c4455a6bac6d294ab68b32',1,'housemodel-mread-source.cpp']]],
+  ['gut_5f0_11',['GUT_0',['../housemodel-mread-source_8cpp.html#a9be9f061cc8362283ac571a5b77e7d7d',1,'housemodel-mread-source.cpp']]]
 ];

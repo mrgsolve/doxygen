@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['lsoda_515',['LSODA',['../class_l_s_o_d_a.html',1,'']]]
+  ['emitter_0',['Emitter',['../struct_emitter.html',1,'']]],
+  ['evdata_1',['evdata',['../structmrgsolve_1_1evdata.html',1,'mrgsolve']]],
+  ['exprgrammar_2',['ExprGrammar',['../struct_expr_grammar.html',1,'']]]
 ];

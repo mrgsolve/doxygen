@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['rec_5fptr_937',['rec_ptr',['../datarecord_8h.html#a2c54a83d22546948220328559f42501b',1,'datarecord.h']]],
-  ['reclist_938',['reclist',['../datarecord_8h.html#a14471db201acb4a42c656e445130d955',1,'reclist():&#160;datarecord.h'],['../odeproblem_8h.html#a14471db201acb4a42c656e445130d955',1,'reclist():&#160;odeproblem.h']]],
-  ['recstack_939',['recstack',['../odeproblem_8h.html#a0e40dc57f752f27647c20fc248b86c6f',1,'odeproblem.h']]],
-  ['refun_940',['refun',['../mrgsolv_8h.html#aca43dcaa9fcfbe3c774a9c5bef706d22',1,'mrgsolv.h']]]
+  ['main_5fderiv_5ffunc_0',['main_deriv_func',['../_l_s_o_d_a_8h.html#a85fc9dffdac3d816b446fcf0c6247fa9',1,'LSODA.h']]],
+  ['mrgsolve_5fode_5ffunc_1',['MRGSOLVE_ODE_FUNC',['../_l_s_o_d_a_8h.html#a1eded6c95282f86575b2cf0e85ef831d',1,'MRGSOLVE_ODE_FUNC:&#160;LSODA.h'],['../odeproblem_8h.html#a1eded6c95282f86575b2cf0e85ef831d',1,'MRGSOLVE_ODE_FUNC:&#160;odeproblem.h']]]
 ];

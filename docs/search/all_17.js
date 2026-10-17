@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['_7edataobject_506',['~dataobject',['../classdataobject.html#ac75574ec8106d4f9344f63004d6de220',1,'dataobject']]],
-  ['_7edatarecord_507',['~datarecord',['../classdatarecord.html#a8d31726bb5e0693f3ccffb3c367c2eec',1,'datarecord']]],
-  ['_7elsoda_508',['~LSODA',['../class_l_s_o_d_a.html#af1a90c68af62cb7760ef9a3d419e8e55',1,'LSODA']]],
-  ['_7eodeproblem_509',['~odeproblem',['../classodeproblem.html#a00c35020fc03286fd4596f25b3d82e34',1,'odeproblem']]]
+  ['y_0',['Y',['../classodeproblem.html#a443f635f3653f1b07e64c8ab3d9a77a1',1,'odeproblem']]],
+  ['y_1',['y',['../classodeproblem.html#a7ce821008c01daf3a6276f2af3c69af3',1,'odeproblem::y(const int pos, const double value)'],['../classodeproblem.html#aa3c9c8f2d9ebf613acb7e107e037ed65',1,'odeproblem::y(const int pos)']]],
+  ['y_5fadd_2',['y_add',['../classodeproblem.html#aeb23afacc04444d129c91746e003240a',1,'odeproblem']]],
+  ['y_5finit_3',['y_init',['../classodeproblem.html#a258d7fdca6eb1b49cac25cea9fcca9c4',1,'odeproblem::y_init(int pos, double value)'],['../classodeproblem.html#a372293a1d4b61703c114161f6bd24941',1,'odeproblem::y_init(Rcpp::NumericVector init)']]],
+  ['ydot_4',['Ydot',['../classodeproblem.html#a4bfda60d78b7be883337e3019fb2800c',1,'odeproblem']]],
+  ['yh_5f_5',['yh_',['../class_l_s_o_d_a.html#a2d6c4446ea48eee40f08797feffb15d8',1,'LSODA']]],
+  ['yout_6',['Yout',['../classodeproblem.html#a3ea57a031d8a246eafa94076cd49b762',1,'odeproblem']]]
 ];

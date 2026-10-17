@@ -1,12 +1,11 @@
 var searchData=
 [
-  ['get_5fcapture_613',['get_capture',['../classodeproblem.html#a54adaa665b551ba6ffe835e2d2ddf48f',1,'odeproblem']]],
-  ['get_5fcol_5fn_614',['get_col_n',['../classdataobject.html#a61b4b28130bb76d1d745e055855c70ea',1,'dataobject']]],
-  ['get_5fid_5fvalue_615',['get_id_value',['../classdataobject.html#acb2e5de26d52f9518fe6cc040dad21a1',1,'dataobject']]],
-  ['get_5fidata_5frow_616',['get_idata_row',['../classdataobject.html#aa91370d528f90c10c9638ba8006e66fb',1,'dataobject']]],
-  ['get_5frecords_617',['get_records',['../classdataobject.html#a75e142ee684513e5aac42241c3aed1e6',1,'dataobject']]],
-  ['get_5frecords_5fpred_618',['get_records_pred',['../classdataobject.html#a46b701fd08440fa23f074c185cb11f4b',1,'dataobject']]],
-  ['get_5ftokens_619',['get_tokens',['../mrgsolve_8cpp.html#aa1217db0a93d9d11806d3ed4fd073cda',1,'get_tokens(const Rcpp::CharacterVector &amp;code):&#160;mrgsolve.cpp'],['../_rcpp_exports_8cpp.html#aa1217db0a93d9d11806d3ed4fd073cda',1,'get_tokens(const Rcpp::CharacterVector &amp;code):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#aa1217db0a93d9d11806d3ed4fd073cda',1,'get_tokens(const Rcpp::CharacterVector &amp;code):&#160;mrgsolve.cpp']]],
-  ['get_5fuid_620',['get_uid',['../classdataobject.html#ac4ca33465e8553b7d0cb1f62ff2c8240',1,'dataobject']]],
-  ['get_5fvalue_621',['get_value',['../classdataobject.html#a72cc6a0334d9eed18931deb66e283bca',1,'dataobject']]]
+  ['fbio_0',['fbio',['../classodeproblem.html#ae7047dc9fe7335cb4367a90a945801b5',1,'odeproblem::fbio(unsigned int pos, double value)'],['../classodeproblem.html#abe453ef912e890b1f6e1fea51e627a5e',1,'odeproblem::fbio(unsigned int pos)']]],
+  ['find_5fposition_1',['find_position',['../mrgsolve_8cpp.html#a749def874a18a7ed9d8894546f1f4f17',1,'find_position(const std::string what, Rcpp::CharacterVector &amp;table):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#a749def874a18a7ed9d8894546f1f4f17',1,'find_position(const std::string what, Rcpp::CharacterVector &amp;table):&#160;mrgsolve.cpp']]],
+  ['flagnext_2',['flagnext',['../classevt_1_1regimen.html#a74ce7951553845452369c1a5c67f16b2',1,'evt::regimen']]],
+  ['fn_3',['fn',['../classdatarecord.html#a6c62192febbc8f23012038ae958b967a',1,'datarecord::fn()'],['../classdatarecord.html#a3661df0c8c4d70c3c5e1974f9f58327d',1,'datarecord::fn(double fn_)']]],
+  ['fnorm_4',['fnorm',['../class_l_s_o_d_a.html#a366f066eed4281011bdcff88ddf4afd9',1,'LSODA']]],
+  ['from_5fdata_5',['from_data',['../classdatarecord.html#a77d528cd5faf7ed1acef5d6136054dbe',1,'datarecord::from_data()'],['../classdatarecord.html#aaa51a0191738db6a483caaabddb82976',1,'datarecord::from_data(bool val)']]],
+  ['from_5fto_6',['from_to',['../mrgsolve_8cpp.html#a52fef46f49f6e2827ed136bb46ecf51d',1,'from_to(const Rcpp::CharacterVector &amp;a, const Rcpp::CharacterVector &amp;b, std::vector&lt; int &gt; &amp;ai, std::vector&lt; int &gt; &amp;bi):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#a52fef46f49f6e2827ed136bb46ecf51d',1,'from_to(const Rcpp::CharacterVector &amp;a, const Rcpp::CharacterVector &amp;b, std::vector&lt; int &gt; &amp;ai, std::vector&lt; int &gt; &amp;bi):&#160;mrgsolve.cpp']]],
+  ['funccall_7',['FuncCall',['../structast_1_1_func_call.html#a14dd95d73d5b990693aa0e83060dea3f',1,'ast::FuncCall::FuncCall()'],['../structast_1_1_func_call.html#a254f5cb6befc7b66e1d05ecfcd2fcb7d',1,'ast::FuncCall::FuncCall(std::string name_, std::vector&lt; Expr &gt; args_)']]]
 ];

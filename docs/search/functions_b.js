@@ -1,15 +1,16 @@
 var searchData=
 [
-  ['ncol_660',['ncol',['../classdataobject.html#a8843b2e1b23ee5fe8f40202671ee75ee',1,'dataobject']]],
-  ['needs_5fsorting_661',['needs_sorting',['../classdatarecord.html#ab17d439804932ebd46bf091a2762e98c',1,'datarecord']]],
-  ['neg_5fistate_662',['neg_istate',['../odeproblem_8h.html#a4edd070b036ec7c8c879e3f9dfbf0497',1,'odeproblem.h']]],
-  ['negative_5fistate_663',['negative_istate',['../mrgsolve_8cpp.html#aac84f6f845ba6ac8a253e8b3be30a663',1,'negative_istate(int istate, int maxsteps, double rtol, double atol):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#aac84f6f845ba6ac8a253e8b3be30a663',1,'negative_istate(int istate, int maxsteps, double rtol, double atol):&#160;mrgsolve.cpp']]],
-  ['neps_664',['neps',['../classodeproblem.html#ab497e9890087be72c1039433335e1aac',1,'odeproblem']]],
-  ['neq_665',['neq',['../classodeproblem.html#a9be84fd458c010d902f8601a2968767f',1,'odeproblem']]],
-  ['neta_666',['neta',['../classodeproblem.html#a046724f8d86a85d515ec6cf173cbcd3c',1,'odeproblem']]],
-  ['newind_667',['newind',['../classodeproblem.html#a370c76cd4b8ae3ebd2d9ce3b1dd6a013',1,'odeproblem::newind(unsigned int newind_)'],['../classodeproblem.html#a352d6631fea50cfe328011c6c337e8d7',1,'odeproblem::newind()']]],
-  ['next_5fid_668',['next_id',['../classdataobject.html#ab401830ba458aa862464f6dba32948c0',1,'dataobject']]],
-  ['nid_669',['nid',['../classdataobject.html#a83a26760357ced3f938a1dbf29deece9',1,'dataobject::nid()'],['../classodeproblem.html#ad7800dc80fb646deea76e440af5fa6c6',1,'odeproblem::nid()']]],
-  ['npar_670',['npar',['../classodeproblem.html#a0bda635f86e7c9ccdb862668bf516a80',1,'odeproblem']]],
-  ['nrow_671',['nrow',['../classdataobject.html#a1e71ba1792a9fadbb4b4e0bf67cff101',1,'dataobject::nrow()'],['../classodeproblem.html#ae02303871f68a48c256ccc7ce2c71981',1,'odeproblem::nrow()']]]
+  ['main_5fderivs_0',['main_derivs',['../odeproblem_8cpp.html#a80d2058cf1844fdb7001f9b58604676d',1,'odeproblem.cpp']]],
+  ['makematrix_1',['MAKEMATRIX',['../mrgsolve_8cpp.html#a2b9851c9ec2206ce3c516844bdf89a88',1,'MAKEMATRIX(const Rcpp::S4 &amp;matlist):&#160;mrgsolve.cpp'],['../_rcpp_exports_8cpp.html#a2b9851c9ec2206ce3c516844bdf89a88',1,'MAKEMATRIX(const Rcpp::S4 &amp;matlist):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#a2b9851c9ec2206ce3c516844bdf89a88',1,'MAKEMATRIX(const Rcpp::S4 &amp;matlist):&#160;mrgsolve.cpp']]],
+  ['map_5fuid_2',['map_uid',['../classdataobject.html#ac9041a7122585160b536b82da0bed094',1,'dataobject']]],
+  ['mat2df_3',['mat2df',['../mrgsolve_8cpp.html#a29546d242dd246a790acd065370abdf2',1,'mat2df(Rcpp::NumericMatrix const &amp;x, Rcpp::CharacterVector nm):&#160;mrgsolve.cpp'],['../_rcpp_exports_8cpp.html#a29546d242dd246a790acd065370abdf2',1,'mat2df(Rcpp::NumericMatrix const &amp;x, Rcpp::CharacterVector nm):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#aa5299721fe0cc47458940541bc936e5e',1,'mat2df(Rcpp::NumericMatrix const &amp;x):&#160;mrgsolve.h']]],
+  ['maxsteps_5f_4',['maxsteps_',['../class_l_s_o_d_a.html#a5d68810c5446b37232bafc09ba8514ac',1,'LSODA']]],
+  ['methodswitch_5',['methodswitch',['../class_l_s_o_d_a.html#aa81043ac776e6d6b81ae2382b03dea2a',1,'LSODA']]],
+  ['mevent_6',['mevent',['../classdatabox.html#acc4cc5fa1eb7acc6f85c9f75b50f849b',1,'databox']]],
+  ['mtime_7',['mtime',['../classdatabox.html#a511f763ea1785138503e12e8dc5460d5',1,'databox']]],
+  ['mtimes_8',['mtimes',['../classodeproblem.html#a7b9a43e0cbd56f7ba08a606bdc1dbe14',1,'odeproblem']]],
+  ['mv_5fomega_9',['mv_omega',['../classodeproblem.html#a2827c3ef1ce3acaa967dd6e315debfe3',1,'odeproblem']]],
+  ['mv_5fsigma_10',['mv_sigma',['../classodeproblem.html#aa7d69c4024cf6783ce7c2556367a0675',1,'odeproblem']]],
+  ['mvgauss_11',['MVGAUSS',['../mrgsolve_8cpp.html#ac2ab0768112007b529276c46bcf0e2d9',1,'MVGAUSS(Rcpp::NumericMatrix &amp;OMEGA_, int n):&#160;mrgsolve.cpp'],['../mrgsolve_8cpp.html#a54963e8b10754e4f4769e638447b5f13',1,'MVGAUSS(arma::mat &amp;OMEGA, int n):&#160;mrgsolve.cpp'],['../_rcpp_exports_8cpp.html#ac2ab0768112007b529276c46bcf0e2d9',1,'MVGAUSS(Rcpp::NumericMatrix &amp;OMEGA_, int n):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#ac2ab0768112007b529276c46bcf0e2d9',1,'MVGAUSS(Rcpp::NumericMatrix &amp;OMEGA_, int n):&#160;mrgsolve.cpp'],['../mrgsolve_8h.html#a52789c6403a4ee16acbfa268e6fd0ed4',1,'MVGAUSS(arma::mat &amp;OMEGA_, int n):&#160;mrgsolve.cpp']]],
+  ['mxhnil_5f_12',['mxhnil_',['../class_l_s_o_d_a.html#ab55d32e857b7b353fd2dc559d4a36eb4',1,'LSODA']]]
 ];

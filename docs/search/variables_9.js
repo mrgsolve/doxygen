@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['kai_831',['KAi',['../housemodel-mread-source_8cpp.html#ad3b535164bf165b5e29096208e2300ec',1,'housemodel-mread-source.cpp']]],
-  ['kflag_832',['kflag',['../class_l_s_o_d_a.html#abd05febd0d33e5702c7b4fc0113bc280',1,'LSODA']]],
-  ['kouti_833',['KOUTi',['../housemodel-mread-source_8cpp.html#adcabfd1cd268cec5c8a76ac435f67648',1,'housemodel-mread-source.cpp']]]
+  ['jcur_0',['jcur',['../class_l_s_o_d_a.html#a9286794a75ee5107c3e15119d84cbb98',1,'LSODA']]],
+  ['jstart_1',['jstart',['../class_l_s_o_d_a.html#ac4c1cba46a06f792e3021a9896a0e03c',1,'LSODA']]],
+  ['jt_2',['jt',['../class_l_s_o_d_a.html#a583c45d68566769829a92beed007553a',1,'LSODA']]],
+  ['jtyp_3',['jtyp',['../class_l_s_o_d_a.html#a95777f5aa1a2d75b8de45ed6a0c44081',1,'LSODA']]]
 ];

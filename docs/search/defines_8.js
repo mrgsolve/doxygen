@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['ka_1026',['KA',['../housemodel-mread-header_8h.html#ac20b871b737ec964c3a7c440d411f969',1,'housemodel-mread-header.h']]],
-  ['kin_1027',['KIN',['../housemodel-mread-header_8h.html#aae051115a74a6f9544925894a8d00891',1,'housemodel-mread-header.h']]],
-  ['kout_1028',['KOUT',['../housemodel-mread-header_8h.html#af4902b3cf5e8c815600b5eec85a3cc10',1,'housemodel-mread-header.h']]]
+  ['ndebug_0',['NDEBUG',['../_rcpp_include_8h.html#a8de3ed741dadc9c979a4ff17c0a9116e',1,'RcppInclude.h']]],
+  ['newind_1',['NEWIND',['../modelheader_8h.html#a364ebbe41b1200ce8077f3dd73f0494f',1,'modelheader.h']]],
+  ['newrec_2',['NEWREC',['../datarecord_8h.html#aec784c8d776e9199f53d04365ec2fd09',1,'datarecord.h']]],
+  ['nrep_3',['nREP',['../devtran_8cpp.html#acdb4e27e4c2afb321954ad1c206a395b',1,'devtran.cpp']]]
 ];

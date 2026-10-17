@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['evdata_514',['evdata',['../structmrgsolve_1_1evdata.html',1,'mrgsolve']]]
+  ['databox_0',['databox',['../classdatabox.html',1,'']]],
+  ['dataobject_1',['dataobject',['../classdataobject.html',1,'']]],
+  ['datarecord_2',['datarecord',['../classdatarecord.html',1,'']]]
 ];

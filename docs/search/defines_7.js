@@ -1,6 +1,27 @@
 var searchData=
 [
-  ['ic50_1023',['IC50',['../housemodel-mread-header_8h.html#a9d539f179901cac524bbefd4fe0dc334',1,'housemodel-mread-header.h']]],
-  ['id_1024',['ID',['../modelheader_8h.html#a77ceac8d6af195fe72f95f6afd87c45e',1,'modelheader.h']]],
-  ['inh_1025',['INH',['../housemodel-mread-header_8h.html#a03f542f1e0e2ba512c4ed189decfee3d',1,'housemodel-mread-header.h']]]
+  ['mrgsolve_5fconfig_5fsignature_0',['MRGSOLVE_CONFIG_SIGNATURE',['../mrgsolv_8h.html#ae6fbbf87fdb55cef851d6fca83a34080',1,'mrgsolv.h']]],
+  ['mrgsolve_5fconfig_5fsignature_5fn_1',['MRGSOLVE_CONFIG_SIGNATURE_N',['../mrgsolv_8h.html#ada7d725b2a7b6ba52ca386e199e8984f',1,'mrgsolv.h']]],
+  ['mrgsolve_5fevent_5fsignature_2',['MRGSOLVE_EVENT_SIGNATURE',['../mrgsolv_8h.html#a6107540c3176978616c304c823c39e5d',1,'mrgsolv.h']]],
+  ['mrgsolve_5fevent_5fsignature_5fn_3',['MRGSOLVE_EVENT_SIGNATURE_N',['../mrgsolv_8h.html#a62f28d38f81c5c4ce278256a2dbcf0d7',1,'mrgsolv.h']]],
+  ['mrgsolve_5fget_5fpred_5fcl_4',['MRGSOLVE_GET_PRED_CL',['../odeproblem_8h.html#a33492bb6228a466e2caca33e164ad6ea',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fk10_5',['MRGSOLVE_GET_PRED_K10',['../odeproblem_8h.html#a110797c1f6142a3940dd7463e9dfaddb',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fk12_6',['MRGSOLVE_GET_PRED_K12',['../odeproblem_8h.html#acf5dee3fad9134130c3e6abf320e192e',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fk13_7',['MRGSOLVE_GET_PRED_K13',['../odeproblem_8h.html#aa1ce7ace706bd077ca775d5db6ea8139',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fk21_8',['MRGSOLVE_GET_PRED_K21',['../odeproblem_8h.html#ae18a2783e6410f4d8889e2523fec7dd8',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fk31_9',['MRGSOLVE_GET_PRED_K31',['../odeproblem_8h.html#a2b834a577b66699563dda45ee1a0f823',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fka_10',['MRGSOLVE_GET_PRED_KA',['../odeproblem_8h.html#af53ae3e52d06521bb1fd0d261ea5f647',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fq_11',['MRGSOLVE_GET_PRED_Q',['../odeproblem_8h.html#ae5a458f641ee2fbb7ba21baa02a76d82',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fq2_12',['MRGSOLVE_GET_PRED_Q2',['../odeproblem_8h.html#a53d282daa4f6eaa8a8cd0cfec255777c',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fvc_13',['MRGSOLVE_GET_PRED_VC',['../odeproblem_8h.html#ac295a41c710e3fc1bf93d6917ea29fe7',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fvp_14',['MRGSOLVE_GET_PRED_VP',['../odeproblem_8h.html#ab70efdc55e40c94b020b0b75c427c3a8',1,'odeproblem.h']]],
+  ['mrgsolve_5fget_5fpred_5fvp2_15',['MRGSOLVE_GET_PRED_VP2',['../odeproblem_8h.html#a7f129f8322bbb220307760a89170ae6e',1,'odeproblem.h']]],
+  ['mrgsolve_5finit_5fsignature_16',['MRGSOLVE_INIT_SIGNATURE',['../mrgsolv_8h.html#aac42da048cebf6c173c6ad0830d5983b',1,'mrgsolv.h']]],
+  ['mrgsolve_5finit_5fsignature_5fn_17',['MRGSOLVE_INIT_SIGNATURE_N',['../mrgsolv_8h.html#a6a37dcfc8b94b71f1fc433c5fa73a1d9',1,'mrgsolv.h']]],
+  ['mrgsolve_5fode_5fsignature_18',['MRGSOLVE_ODE_SIGNATURE',['../mrgsolv_8h.html#a5621b41abbd9a4194934f55a6dbb8ee8',1,'mrgsolv.h']]],
+  ['mrgsolve_5fode_5fsignature_5fn_19',['MRGSOLVE_ODE_SIGNATURE_N',['../mrgsolv_8h.html#ae84aa7e0b33c555aeb98b4d05b67a42c',1,'mrgsolv.h']]],
+  ['mrgsolve_5ftable_5fsignature_20',['MRGSOLVE_TABLE_SIGNATURE',['../mrgsolv_8h.html#a0063904bf51d98d5a65ba0aa3f648ecb',1,'mrgsolv.h']]],
+  ['mrgsolve_5ftable_5fsignature_5fn_21',['MRGSOLVE_TABLE_SIGNATURE_N',['../mrgsolv_8h.html#a51e8b66c9b51bb8a9f057e9ebb663ea5',1,'mrgsolv.h']]],
+  ['mrgsolve_5fwarn_5funused_5fvar_5fno_22',['MRGSOLVE_WARN_UNUSED_VAR_NO',['../modelheader_8h.html#a0ca9cdb0d1cfa392dfadf904fecc13e6',1,'modelheader.h']]],
+  ['mrgsolve_5fwarn_5funused_5fvar_5fyes_23',['MRGSOLVE_WARN_UNUSED_VAR_YES',['../modelheader_8h.html#aeb83d8d6df4a2ec2d0f212d6906fb6b5',1,'modelheader.h']]]
 ];
