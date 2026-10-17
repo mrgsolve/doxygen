@@ -3,12 +3,13 @@ var indexSectionsWithContent =
   0: "_abcdefghijklmnoprstuvwy~",
   1: "bcdefilnortu",
   2: "aem",
-  3: "dhlmor",
+  3: "dhlmors",
   4: "_abcdefghilmnoprstuvwy~",
   5: "_acdefghijklmnoprstuvwy",
   6: "cdeilmrtu",
   7: "_acdefimnprst",
-  8: "dimtu"
+  8: "fm",
+  9: "dimtu"
 };
 
 var indexSectionNames =
@@ -21,7 +22,8 @@ var indexSectionNames =
   5: "variables",
   6: "typedefs",
   7: "defines",
-  8: "pages"
+  8: "groups",
+  9: "pages"
 };
 
 var indexSectionLabels =
@@ -34,6 +36,7 @@ var indexSectionLabels =
   5: "Variables",
   6: "Typedefs",
   7: "Macros",
-  8: "Pages"
+  8: "Modules",
+  9: "Pages"
 };
 

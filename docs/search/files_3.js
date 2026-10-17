@@ -7,5 +7,6 @@ var searchData=
   ['mrgsolve_2dtad_2eh_4',['mrgsolve-tad.h',['../mrgsolve-tad_8h.html',1,'']]],
   ['mrgsolve_2ecpp_5',['mrgsolve.cpp',['../mrgsolve_8cpp.html',1,'']]],
   ['mrgsolve_2eh_6',['mrgsolve.h',['../mrgsolve_8h.html',1,'']]],
-  ['mrgsolve_5finit_2ecpp_7',['mrgsolve_init.cpp',['../mrgsolve__init_8cpp.html',1,'']]]
+  ['mrgsolve_5finit_2ecpp_7',['mrgsolve_init.cpp',['../mrgsolve__init_8cpp.html',1,'']]],
+  ['mrgx_2eh_8',['mrgx.h',['../mrgx_8h.html',1,'']]]
 ];

@@ -28,7 +28,8 @@ var searchData=
   ['arm_25',['arm',['../classdatarecord.html#a2613ccc7bfb8da426c11fde6a75139c2',1,'datarecord']]],
   ['armed_26',['Armed',['../classdatarecord.html#ac8cd42838bb397a34d97dd495a58f0cf',1,'datarecord']]],
   ['armed_27',['armed',['../classdatarecord.html#a15ce7811386fe88c0d4125286679b237',1,'datarecord']]],
-  ['ast_28',['ast',['../namespaceast.html',1,'']]],
-  ['atol_29',['Atol',['../class_l_s_o_d_a.html#a97844179a5f1f7f3b7e6144d845371c3',1,'LSODA::Atol'],['../classodeproblem.html#a88cc2edf0422771da6ef112cb3e63516',1,'odeproblem::Atol']]],
-  ['atol_5f_30',['atol_',['../class_l_s_o_d_a.html#a1b4b2d09f1301705ad5d9060dfc0dcb2',1,'LSODA']]]
+  ['assign_28',['assign',['../group__mrgx.html#ga28812e2f3f39992217c35a9859b58bfa',1,'mrgx']]],
+  ['ast_29',['ast',['../namespaceast.html',1,'']]],
+  ['atol_30',['Atol',['../class_l_s_o_d_a.html#a97844179a5f1f7f3b7e6144d845371c3',1,'LSODA::Atol'],['../classodeproblem.html#a88cc2edf0422771da6ef112cb3e63516',1,'odeproblem::Atol']]],
+  ['atol_5f_31',['atol_',['../class_l_s_o_d_a.html#a1b4b2d09f1301705ad5d9060dfc0dcb2',1,'LSODA']]]
 ];

@@ -27,6 +27,7 @@ var NAVTREE =
   [ "mrgsolve", "index.html", [
     [ "User Interface", "index.html#interface", null ],
     [ "Technical Documentation", "index.html#technical", null ],
+    [ "Topics", "topics.html", "topics" ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -63,8 +64,8 @@ var NAVTREEINDEX =
 "_l_s_o_d_a_8cpp.html",
 "classdatarecord.html#a3281bdb0abcd69797a6bece550b6f7db",
 "classodeproblem.html#aed65be08258dcebae87fede0af615b98",
-"modelheader_8h.html#a5b08deb45c28e774a9bd49340c2e7d20",
-"structast_1_1_func_call.html#ad5298352ef07a7ce457499c2ddc5d77c"
+"modelheader_8h.html#a3ce3458c25225494fb0112120168f9d0",
+"structast_1_1_binary_expr.html#a18938c077bb4998eba3e5ab4e0f7c807"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

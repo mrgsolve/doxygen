@@ -19,5 +19,6 @@ var searchData=
   ['fromdata_16',['Fromdata',['../classdatarecord.html#a2e94c47f9bb5e6f3acb484c495f2a2d5',1,'datarecord']]],
   ['fun_17',['fun',['../structmrgsolve_1_1resim.html#afad5c6d48a3d1cf2e75abf8e0b76d8e0',1,'mrgsolve::resim']]],
   ['funccall_18',['FuncCall',['../structast_1_1_func_call.html',1,'ast::FuncCall'],['../structast_1_1_func_call.html#a14dd95d73d5b990693aa0e83060dea3f',1,'ast::FuncCall::FuncCall()'],['../structast_1_1_func_call.html#a254f5cb6befc7b66e1d05ecfcd2fcb7d',1,'ast::FuncCall::FuncCall(std::string name_, std::vector&lt; Expr &gt; args_)']]],
-  ['funccall_19',['funccall',['../struct_expr_grammar.html#aa00e0b944b9641a354042f8521eb6cae',1,'ExprGrammar']]]
+  ['funccall_19',['funccall',['../struct_expr_grammar.html#aa00e0b944b9641a354042f8521eb6cae',1,'ExprGrammar']]],
+  ['functions_20',['mrgx functions',['../group__mrgx.html',1,'']]]
 ];
